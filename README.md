@@ -10,16 +10,16 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/osama00001](https://github.com/osama00001)
 
-- 💬 Ask me about **Web3 Next.js & SDLC**
+- 💬 Ask me about **Javascript React Node Express**
 
-- 📫 How to reach me **sr.osama774@gmail.com**
+- 📫 How to reach me **osamasajid38@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/osama00001](https://github.com/osama00001)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!-- <a href="https://twitter.com/osama00001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="osama00001" height="30" width="40" /></a> -->
-<a href="https://www.linkedin.com/in/osama-sajid/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/osama-sajid" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/osama-sajid-500b021aa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/osama-sajid" height="30" width="40" /></a>
 <!-- <a href="https://stackoverflow.com/users/osama00001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="osama00001" height="30" width="40" /></a> -->
 <!-- <a href="https://instagram.com/osama00001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="osama00001" height="30" width="40" /></a> -->
 <a href="https://www.youtube.com/c/fitcodding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fitcodding" height="30" width="40" /></a>
